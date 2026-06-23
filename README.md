@@ -1,44 +1,36 @@
-# vCard - Personal portfolio
+# Saran Kumar Portfolio
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-[![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
+Personal portfolio website of Saran Kumar, an aspiring Cloud & DevOps Engineer.
 
-vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
+## About Me
 
-## Demo
+I am a B.Tech graduate in Electronics and Communication Engineering with a strong interest in Cloud Computing, DevOps, and Infrastructure Automation. I am AWS Cloud Practitioner certified and continuously learning Linux, Networking, Git, Docker, Kubernetes, and CI/CD.
 
-![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+## Skills
 
-## Prerequisites
+* AWS Cloud
+* Linux
+* Networking
+* Git & GitHub
+* Python
+* HTML, CSS, JavaScript
+* Docker (Learning)
+* Kubernetes (Learning)
 
-Before you begin, ensure you have met the following requirements:
+## Projects
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+### SmartHire - AI Powered Recruitment Platform
 
-## Installing vCard
+A recruitment platform featuring resume analysis, ATS checking, and job matching.
 
-To install **vCard**, follow these steps:
+### Face Recognition Photo Organizer
 
-Linux and macOS:
-
-```bash
-sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
-
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
+A cloud-based photo management solution using AWS Rekognition and Amazon S3.
 
 ## Contact
 
-If you want to contact me you can reach me at [Twitter](https://www.x.com/codewithsadee_).
+Email: [saranseethini27@gmail.com](mailto:saranseethini27@gmail.com)
 
-## License
+GitHub: https://github.com/sarankumar0101
 
-MIT
+LinkedIn: Add your LinkedIn profile URL here.
